@@ -1,0 +1,10 @@
+https://www.renthub.in.th/dashboard/condo_listings
+
+button: //*[@class="buttonicon"]/div[4]
+
+/*site design changes the link indexes as new ones are added or older ones removed. The following are thus, not absolute
+links, rather, as they were when recent changes were made.*/
+
+next_page: //*[@id="result_panel_wrapper"]/div/div[1]/div/div/a[10]
+
+page number 10: //*[@id="result_panel_wrapper"]/div/div[1]/div/div/a[9]
